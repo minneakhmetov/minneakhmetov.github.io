@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Minecraft-Rus;
+    src: url("font/cyrillic-minecraft-font.ttf");
+}
+
+@font-face {
+    font-family: Minecraft;
+    src: url("font/Minecraft-Regular.ttf.woff");
+}
+h2 mine {
+    font-family: 'Minecraft';
+    font-size: 120%
+}
+
+h2 minerus {
+    font-family: 'Minecraft-Rus';
+    font-size: 90%
+}
